@@ -388,7 +388,7 @@ export default function Graphics() {
                             className={styles.categories}
                             />
                             <Image 
-                            src={"/images/inventory-dark.png"} 
+                            src={"/images/inventory_dark.png"} 
                             alt="Inventory category icons_dark" 
                             width={215} 
                             height={466}
