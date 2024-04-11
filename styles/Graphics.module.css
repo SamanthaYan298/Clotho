@@ -291,3 +291,11 @@
     text-align: left;
 }
 
+.headlind {
+    padding-top: 200px;
+}
+
+.homePage {
+    position: relative;
+    top: -50px;
+}
