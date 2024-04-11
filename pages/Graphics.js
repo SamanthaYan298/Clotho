@@ -381,14 +381,14 @@ export default function Graphics() {
 
                         <div className={styles.inventory}>
                             <Image 
-                            src={"/images/inventory_categories.png"} 
+                            src={"/images/inventory.png"} 
                             alt="Inventory category icons" 
                             width={215} 
                             height={466}
                             className={styles.categories}
                             />
                             <Image 
-                            src={"/images/inventory_categories-dark.png"} 
+                            src={"/images/inventory-dark.png"} 
                             alt="Inventory category icons_dark" 
                             width={215} 
                             height={466}
