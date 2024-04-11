@@ -1,0 +1,8 @@
+:root {
+    --button-linear-light: 45deg, rgba(221, 184, 255, 0.5), rgba(214, 239, 255, 0.5);
+    --button-outline-light: 2px solid #B8C0FF;
+    --button-highlight-light: #8229E0;
+    --black: black;
+    --white: white;
+    --light-gray: #B3B3B3;
+  }
